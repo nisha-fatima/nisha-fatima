@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nisha-fatima](https://github.com/nisha-fatima)   
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif")
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **nishhfatima@gmail.com**
